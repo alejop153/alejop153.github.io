@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f33b0adb.css",
+    "main.js": "/static/js/main.aa3034eb.js",
+    "static/media/delivery.png": "/static/media/delivery.4f1390c767d2a98aff72.png",
+    "static/media/landing.png": "/static/media/landing.a89663e5c52596f63bb2.png",
+    "static/media/cattle.png": "/static/media/cattle.959e1e05169954118d23.png",
+    "static/media/image.png": "/static/media/image.c3ff9aaaee3bae47d25a.png",
+    "static/media/header.jpg": "/static/media/header.ee34350fe2b69fa43c30.jpg",
+    "static/media/DWALLE.jpg": "/static/media/DWALLE.da74752b931adb81c684.jpg",
+    "static/media/nucleo-outline.eot": "/static/media/nucleo-outline.56814a6b7240045e1494.eot",
+    "static/media/nucleo-outline.ttf": "/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
+    "static/media/nucleo-outline.woff": "/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
+    "static/media/nucleo-outline.woff2": "/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f33b0adb.css",
+    "static/js/main.aa3034eb.js"
+  ]
+}
