@@ -19,7 +19,7 @@ function Examples() {
                 <img
                   alt="..."
                   className="img-raised"
-                  src={require("../../assets/img/landing.png")}
+                  src={require("assets/img/landing.png")}
                 ></img>
               </a>
               <Button className="btn-round" color="default" outline tag={Link}>
@@ -31,7 +31,7 @@ function Examples() {
                 <img
                   alt="..."
                   className="img-raised"
-                  src={require("../../assets/img/DWALLE.jpg")}
+                  src={require("assets/img/DWALLE.jpg")}
                 ></img>
               </a>
               <Button className="btn-round" color="default" outline tag={Link}>
@@ -46,7 +46,7 @@ function Examples() {
                 <img
                   alt="..."
                   className="img-raised"
-                  src={require("../../assets/img/cattle.png")}
+                  src={require("assets/img/cattle.png")}
                 ></img>
               </a>
               <Button className="btn-round" color="default" outline tag={Link}>
@@ -58,7 +58,7 @@ function Examples() {
                 <img
                   alt="..."
                   className="img-raised"
-                  src={require("../../assets/img/delivery.png")}
+                  src={require("assets/img/delivery.png")}
                 ></img>
               </a>
               <Button className="btn-round" color="default" outline tag={Link}>
@@ -73,7 +73,7 @@ function Examples() {
                 <img
                   alt="..."
                   className="img-raised"
-                  src={require("../../assets/img/landing.png")}
+                  src={require("assets/img/landing.png")}
                 ></img>
               </a>
               <Button className="btn-round" color="default" outline tag={Link}>
@@ -85,7 +85,7 @@ function Examples() {
                 <img
                   alt="..."
                   className="img-raised"
-                  src={require("../../assets/img/image.png")}
+                  src={require("assets/img/image.png")}
                 ></img>
               </a>
               <Button className="btn-round" color="default" outline tag={Link}>

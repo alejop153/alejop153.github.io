@@ -5,9 +5,9 @@ import React from "react";
 // } from "reactstrap";
 
 // core components
-import IndexNavbar from "../components/Navbars/IndexNavbar.js";
-import IndexHeader from "../components/Headers/IndexHeader.js";
-import DarkFooter from "../components/Footers/DarkFooter.js";
+import IndexNavbar from "components/Navbars/IndexNavbar.js";
+import IndexHeader from "components/Headers/IndexHeader.js";
+import DarkFooter from "components/Footers/DarkFooter.js";
 
 // sections for this page
 import Tabs from "./index-sections/Tabs.js";
